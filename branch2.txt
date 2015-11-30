@@ -1,1 +1,2 @@
 this is my branch2
+my branch2 from command line
